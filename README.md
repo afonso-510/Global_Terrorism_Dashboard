@@ -35,8 +35,6 @@ The dashboards explore terrorist activity through three key analytical questions
 
 ## Repository Structure
 - `DV4BA_Project_merged.twbx` – Tableau packaged workbook with all dashboards
-- `global_terrorism_clean3.csv` – Cleaned dataset used in Tableau Prep
-- `screenshots/` – Preview images of each dashboard
 - `README.md` – Project documentation
 - `LICENSE` – MIT License (covers code and visuals)
 
