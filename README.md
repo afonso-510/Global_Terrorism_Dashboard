@@ -42,7 +42,7 @@ The dashboards explore terrorist activity through three key analytical questions
 
 ---
 
-## 👥 Contributors
+## Contributors
 This project was collaboratively developed by Master's in Business Analytics students at Nova SBE:
 - Afonso [@afonso-510](https://github.com/afonso-510)  
 - Philipp [@philippmue1996](https://github.com/philippmue1996)
@@ -50,7 +50,7 @@ This project was collaboratively developed by Master's in Business Analytics stu
 
 ---
 
-## 📎 Data Source
+## Data Source
 - [Global Terrorism Database (GTD) – Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd)  
 - Maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland
 
@@ -58,6 +58,6 @@ This project was collaboratively developed by Master's in Business Analytics stu
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](LICENSE).
 
